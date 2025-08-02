@@ -18,6 +18,12 @@ A production-ready **Multimodal Retrieval-Augmented Generation (RAG)** system bu
 - **Production Ready**: Comprehensive error handling, logging, and monitoring capabilities
 - **Interactive Interface**: User-friendly Streamlit web application
 
+## 🏗️ Architecture
+
+![Architecture Diagram](images/architecture_diagram.png)
+
+*The system architecture shows the flow from document ingestion through multimodal processing to vector storage and retrieval, enabling intelligent question-answering capabilities.*
+
 ## ✨ Features
 
 ### 📄 Document Processing
