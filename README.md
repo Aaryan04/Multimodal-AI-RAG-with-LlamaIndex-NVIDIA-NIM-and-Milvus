@@ -20,7 +20,7 @@ A production-ready **Multimodal Retrieval-Augmented Generation (RAG)** system bu
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](/Users/aaryanshah/GenerativeAIExamples/community/llm_video_series/video_2_multimodal-rag/arch_diag.png)
+![Alt text](arch_diag.png)
 
 *The system architecture shows the flow from document ingestion through multimodal processing to vector storage and retrieval, enabling intelligent question-answering capabilities.*
 
