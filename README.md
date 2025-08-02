@@ -156,6 +156,12 @@ Open your browser and navigate to: `http://localhost:8501`
 - **Source Attribution**: See which documents informed each answer
 - **Export Results**: Save conversations for later reference
 
+## 📱 Application Interface
+
+![Streamlit App Screenshot](images/streamlit_app_screenshot.png)
+
+*The intuitive Streamlit interface allows users to easily upload documents, process them, and interact with their content through natural language queries.*
+
 ## 📁 Project Structure
 
 ```
