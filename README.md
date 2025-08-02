@@ -157,9 +157,10 @@ Open your browser and navigate to: `http://localhost:8501`
 - **Export Results**: Save conversations for later reference
 
 ## 📱 Application Interface
-
+Here are the screenshots of the streamlit app
 ![Alt text](app_ss_1.png)
 ![Alt text](app_ss_2.png)
+
 
 *The intuitive Streamlit interface allows users to easily upload documents, process them, and interact with their content through natural language queries.*
 
