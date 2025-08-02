@@ -269,13 +269,6 @@ docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
 - **Streamlit**: For the intuitive web application framework
 - **Open Source Community**: For the amazing tools and libraries
 
-## 🌟 Support
-
-If you find this project helpful, please consider:
-- ⭐ Starring the repository
-- 🐛 Reporting issues
-- 💡 Suggesting improvements
-- 🤝 Contributing to the codebase
 
 ---
 
