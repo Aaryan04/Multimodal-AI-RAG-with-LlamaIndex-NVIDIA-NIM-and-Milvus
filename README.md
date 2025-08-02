@@ -251,20 +251,6 @@ docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
 3. **Customize prompt templates**: Enhance response formatting
 
 
-### Development Setup
-```bash
-# Install development dependencies
-pip install -r requirements-dev.txt
-
-# Run tests
-pytest tests/
-
-# Format code
-black . && isort .
-
-# Lint code
-flake8 .
-```
 
 ## 📊 Performance Metrics
 
