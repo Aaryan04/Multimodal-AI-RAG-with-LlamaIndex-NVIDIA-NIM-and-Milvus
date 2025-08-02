@@ -1,10 +1,10 @@
-# Multimodal RAG Pipeline using NVIDIA NIM, Milvus & Llama3
+# Multimodal AI RAG with LlamaIndex, NVIDIA NIM and Milvus
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/Aaryan04/Multimodal-RAG-pipeline-using-NVIDIA-NIM-Milvus-Llama3)](https://github.com/Aaryan04/Multimodal-RAG-pipeline-using-NVIDIA-NIM-Milvus-Llama3/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/Aaryan04/Multimodal-RAG-pipeline-using-NVIDIA-NIM-Milvus-Llama3)](https://github.com/Aaryan04/Multimodal-RAG-pipeline-using-NVIDIA-NIM-Milvus-Llama3/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/Aaryan04/Multimodal-AI-RAG-with-LlamaIndex-NVIDIA-NIM-and-Milvus)](https://github.com/Aaryan04/Multimodal-AI-RAG-with-LlamaIndex-NVIDIA-NIM-and-Milvus/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/Aaryan04/Multimodal-AI-RAG-with-LlamaIndex-NVIDIA-NIM-and-Milvus)](https://github.com/Aaryan04/Multimodal-AI-RAG-with-LlamaIndex-NVIDIA-NIM-and-Milvus/stargazers)
 
 ## 🚀 Overview
 
@@ -68,8 +68,8 @@ A production-ready **Multimodal Retrieval-Augmented Generation (RAG)** system bu
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Aaryan04/Multimodal-RAG-pipeline-using-NVIDIA-NIM-Milvus-Llama3.git
-cd Multimodal-RAG-pipeline-using-NVIDIA-NIM-Milvus-Llama3
+git clone https://github.com/Aaryan04/Multimodal-AI-RAG-with-LlamaIndex-NVIDIA-NIM-and-Milvus.git
+cd Multimodal-AI-RAG-with-LlamaIndex-NVIDIA-NIM-and-Milvus
 ```
 
 ### 2. Set Up Python Environment
@@ -167,7 +167,7 @@ Here are the screenshots of the streamlit app
 ## 📁 Project Structure
 
 ```
-multimodal-rag/
+Multimodal-AI-RAG-with-LlamaIndex-NVIDIA-NIM-and-Milvus/
 ├── 📄 app.py                    # Main Streamlit application
 ├── 🔧 utils.py                  # Utility functions for image processing
 ├── 📋 document_processors.py    # Document processing functions
