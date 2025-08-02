@@ -20,7 +20,7 @@ A production-ready **Multimodal Retrieval-Augmented Generation (RAG)** system bu
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](image.png)
+![Architecture Diagram](/Users/aaryanshah/GenerativeAIExamples/community/llm_video_series/video_2_multimodal-rag/arch_diag.png)
 
 *The system architecture shows the flow from document ingestion through multimodal processing to vector storage and retrieval, enabling intelligent question-answering capabilities.*
 
@@ -158,7 +158,8 @@ Open your browser and navigate to: `http://localhost:8501`
 
 ## 📱 Application Interface
 
-![Streamlit App Screenshot](images/streamlit_app_screenshot.png)
+![Alt text](app_ss_1.png)
+![Alt text](app_ss_2.png)
 
 *The intuitive Streamlit interface allows users to easily upload documents, process them, and interact with their content through natural language queries.*
 
@@ -253,6 +254,10 @@ docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
 
 
 
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 👨‍💻 Author
 
 **Aaryan Shah**
@@ -267,6 +272,14 @@ docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
 - **LlamaIndex**: For the excellent RAG framework
 - **Streamlit**: For the intuitive web application framework
 - **Open Source Community**: For the amazing tools and libraries
+
+## 🌟 Support
+
+If you find this project helpful, please consider:
+- ⭐ Starring the repository
+- 🐛 Reporting issues
+- 💡 Suggesting improvements
+- 🤝 Contributing to the codebase
 
 ---
 
