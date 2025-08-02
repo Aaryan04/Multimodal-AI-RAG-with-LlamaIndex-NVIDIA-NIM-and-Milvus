@@ -250,30 +250,6 @@ docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
 2. **Fine-tune chunk overlap**: Improve context preservation
 3. **Customize prompt templates**: Enhance response formatting
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these guidelines:
-
-### 1. Fork & Clone
-```bash
-git fork https://github.com/Aaryan04/Multimodal-RAG-pipeline-using-NVIDIA-NIM-Milvus-Llama3.git
-git clone https://github.com/YOUR_USERNAME/Multimodal-RAG-pipeline-using-NVIDIA-NIM-Milvus-Llama3.git
-```
-
-### 2. Create Feature Branch
-```bash
-git checkout -b feature/amazing-feature
-```
-
-### 3. Make Changes
-- Follow PEP 8 style guidelines
-- Add tests for new functionality
-- Update documentation as needed
-
-### 4. Submit Pull Request
-- Provide clear description of changes
-- Include test results
-- Reference related issues
 
 ### Development Setup
 ```bash
