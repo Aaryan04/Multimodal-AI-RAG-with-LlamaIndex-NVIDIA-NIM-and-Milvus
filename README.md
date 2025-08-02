@@ -253,10 +253,6 @@ docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
 
 
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Aaryan Shah**
@@ -271,14 +267,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **LlamaIndex**: For the excellent RAG framework
 - **Streamlit**: For the intuitive web application framework
 - **Open Source Community**: For the amazing tools and libraries
-
-## 🌟 Support
-
-If you find this project helpful, please consider:
-- ⭐ Starring the repository
-- 🐛 Reporting issues
-- 💡 Suggesting improvements
-- 🤝 Contributing to the codebase
 
 ---
 
