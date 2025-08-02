@@ -253,9 +253,6 @@ docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
 
 
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
