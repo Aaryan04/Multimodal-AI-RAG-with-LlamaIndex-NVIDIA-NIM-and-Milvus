@@ -252,21 +252,6 @@ docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
 
 
 
-## 📊 Performance Metrics
-
-### Benchmark Results
-- **Document Processing**: ~100 pages/minute (CPU), ~500 pages/minute (GPU)
-- **Query Response Time**: <2 seconds for typical queries
-- **Vector Search**: <100ms for similarity search
-- **Concurrent Users**: Supports 10+ simultaneous users
-
-### Supported File Formats
-| Format | Extension | Max Size | Notes |
-|--------|-----------|----------|-------|
-| PDF | `.pdf` | 100MB | Tables, images, text |
-| PowerPoint | `.pptx` | 50MB | Slides, embedded content |
-| Images | `.jpg`, `.png`, `.gif` | 10MB | OCR + visual analysis |
-| Text | `.txt`, `.md` | 5MB | Plain text processing |
 
 ## 📜 License
 
